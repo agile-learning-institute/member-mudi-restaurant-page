@@ -1,0 +1,18 @@
+{
+  "name": "member-mudi-restaurant-page",
+  "version": "1.0.0",
+  "description": "This Restaurant Page project is a JavaScript-based single-page application that dynamically generates the entire contents of a restaurant website using the Document Object Model (DOM) manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
